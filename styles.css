@@ -1,0 +1,96 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.jumbotron {
+    background-color: #477bff;
+    color: #fff;
+    padding: 2rem 1rem;
+    text-align: center;
+    margin-bottom: 3.5rem;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    text-align: center;
+}
+
+img {
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h2 {
+    padding: 2rem 6rem;
+    text-align: center;
+}
+
+h3 {
+    padding: 2rem 6rem;
+    text-align: center;
+}
+
+button {
+    padding: 1rem 1rem;
+    margin: 1rem 3rem;
+}
+
+li {
+    font-size: 24px;
+    padding: 1rem 2rem;
+}
+
+div {
+    padding: 1.5rem 3rem;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+
+.section {
+    padding: 0.25rem 1rem 0.5rem 1rem;
+}
+
+.section:hover {
+    background-color: #f5f5f5;
+    transition: color 2s ease-in-out, background-color 0.15s ease-in-out;
+}
+
+button, input[type="submit"] {
+    background-color: #d9edff;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    font-size: 0.95rem;
+    font-weight: 400;
+    line-height: 1.5;
+    padding: 0.375rem 0.75rem;
+    text-align: center;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    vertical-align: middle;
+}
+
+
+input[type="text"] {
+    line-height: 1.8;
+    width: 25%;
+}
+
+input[type="text"]:hover {
+    background-color: #f5f5f5;
+    transition: color 2s ease-in-out, background-color 0.15s ease-in-out;
+}
+
+p {
+    text-align: center;
+}
